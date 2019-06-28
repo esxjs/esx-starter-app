@@ -1,0 +1,11 @@
+{
+  "short_name": "My PWA",
+  "name": "My PWA",
+  "icons": [
+
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#FFFFFF"
+}
